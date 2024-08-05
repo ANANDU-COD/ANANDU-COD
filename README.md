@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm anandu h1>
-<h3 align="center">When you can be anybody, you become nobody...</h3>
+<h1 align="center">Hi 👋, I'm anandu <h1>
+<h3 align="center"> DO EPIC SHIT!</h3>
 
 - 🔭 I’m currently working on 
 
