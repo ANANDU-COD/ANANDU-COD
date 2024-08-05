@@ -6,7 +6,8 @@
 - 📫 How to reach me **https://www.instagram.com/4nandu.s.anand/**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction" target="_blank" rel="noreferrer"> <img src="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/1b2d7385-7732-42e0-88b9-683291632b33)
+" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
 
 
