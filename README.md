@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm anandu <h1>
 <h3 align="center"> DO EPIC SHIT !!!</h3>
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I'm an aspiring software developer currently focused on learning **FLUTTER**
 
 - 📫 How to reach me **https://www.instagram.com/4nandu.s.anand/**
 
