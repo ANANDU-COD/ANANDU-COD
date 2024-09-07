@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm anandu s anand</h1>
 <h3 align="center">I'm an aspiring software developer currently focused on learning **FLUTTER**</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandusanand" alt="anandusanand" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandu-cod" alt="anandu-cod" /></a> </p>
 
 - 🔭 I’m currently working on [Flora app](https://github.com/ANANDU-COD/flora_plants_selling_app)
 
@@ -25,6 +25,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ anandu s anand"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" anandu s anand" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandusanand&show_icons=true&locale=en&layout=compact" alt="anandusanand" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandu-cod&show_icons=true&locale=en&layout=compact" alt="anandu-cod" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandusanand&show_icons=true&locale=en" alt="anandusanand" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandu-cod&show_icons=true&locale=en" alt="anandu-cod" /></p>
