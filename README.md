@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm anandu <h1>
-<h2 align="center"> DO EPIC SHIT !!!</h2>
+<h1 align="center">Hi 👋, I'm anandu <h1> 
   
 - 🌱 I'm an aspiring software developer currently focused on learning **FLUTTER**
 
