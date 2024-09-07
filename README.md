@@ -3,7 +3,6 @@
  <h3 align="left">
   
 - 🌱 I'm an aspiring software developer currently focused on learning **FLUTTER**
-- 💻 I,m an frontend developer
 - 📫 How to reach me **https://www.instagram.com/4nandu.s.anand/** </h3>
 
 <h3 align="left">Languages and Tools:</h3>
