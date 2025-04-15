@@ -1,6 +1,6 @@
 ![MasterHead](https://stock.adobe.com/in/images/a-team-working-on-a-coding-project-with-multiple-monitors-displaying-code-and-developers-collaborating-to-solve-problems-illustrating-technical-teamwork-minimal-and-simple/836689781)
 
-<h1 align="center">Hi 👋, I'm Anandu S Anand</h1>
+<h1 align="center">Hi , I'm Anandu S Anand</h1>
 <h3 align="center">Aspiring Software Developer | Flutter Enthusiast</h3>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ---
 
-- 🔭 I’m currently working on: [**Flora App** 🌱](https://github.com/ANANDU-COD/flora_plants_selling_app)  
-- 🌱 Currently learning: **Flutter**, **CSS**, **HTML**, **JavaScript**  
-- 💬 Ask me about: **Flutter development**  
-- 📫 Reach me at: **anandusanand10@gmail.com**  
+-  I’m currently working on: [**Flora App** ](https://github.com/ANANDU-COD/flora_plants_selling_app)  
+-  Currently learning: **Flutter**, **CSS**, **HTML**, **JavaScript**  
+-  Ask me about: **Flutter development**  
+-  Reach me at: **anandusanand10@gmail.com**  
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-<h3 align="left">☕ Support Me:</h3>
+<h3 align="left"> Support Me:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/anandusanand">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
