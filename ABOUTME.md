@@ -66,7 +66,7 @@
 
 <h3 align="left"> Support Me:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/anandusanand">
+  <a href="coff.ee/anandusanag">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
 </p>
